@@ -1,0 +1,8 @@
+The bar graph shows that Capomulin is the most commonly used drug regimen with 230 mice, while Zoniferol has the lowest number of mice at 182. After removing duplicates, the total number of mice is 248, with 124 females and 125 males.
+
+The correlation between mouse weight and average tumor volume is a strong positive correlation of 0.84. This means that as mouse weight increases, the average tumor volume also increases.
+
+The regression analysis helps predict how much the average tumor volume will change with changes in mouse weight. The R-squared value of 0.70 indicates that the model fits the data well and can predict outcomes with reasonable accuracy. Higher R-squared values suggest smaller differences between observed and fitted data, and in this case, the model explains 70% of the variation in response variable around its mean.
+
+Of the selected treatments, Capomulin and Ramicane have shown to be more effective in reducing tumor size.
+
