@@ -1,1 +1,1 @@
-# Pymaceuticals-Matplotlib-Challened
+# Pymaceuticals-Matplotlib-Challenge
