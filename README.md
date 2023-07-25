@@ -15,13 +15,16 @@ Throughout the study, various visualizations were generated to analyze and prese
 ![Piechart_gender](https://github.com/Kanwalifti/Pymaceuticals-Matplotlib/blob/main/piechart.png)
 
 - The box plot exhibits the final tumor volume for all four treatment regimens.
-![boxplot](
+![boxplot](https://github.com/Kanwalifti/Pymaceuticals-Matplotlib/blob/main/boxplot.png)
+
 - The line plot depicts the relationship between volume and timepoint for the Capomulin treatment of mouse l509.
+![line_graph](https://github.com/Kanwalifti/Pymaceuticals-Matplotlib/blob/main/line_plot.png)
 
 - The scatter plot illustrates the correlation between tumor volume and mouse weight for the Capomulin treatment regimen.
+![scatter_plot](https://github.com/Kanwalifti/Pymaceuticals-Matplotlib/blob/main/scatter_plot.png)
 
 - The scatter plot showcases the relationship between mouse weight and average tumor volume for the Capomulin treatment. Additionally, a linear regression model is plotted on top of the scatter plot to analyze the correlation between these two variables.
-
+![regression_line](https://github.com/Kanwalifti/Pymaceuticals-Matplotlib/blob/main/regressionline.png)
 
 # Observations and Insights:
 
